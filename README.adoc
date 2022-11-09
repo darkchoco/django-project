@@ -1,0 +1,6 @@
+= Django Project
+:toc:
+
+== List
+=== Django 4 for the Impatient
+* `movie_reviews` prefix in issues
