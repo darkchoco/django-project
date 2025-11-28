@@ -5,8 +5,7 @@
 
 ## List of projects (Alphabetical order)
 
-### blog-bs5-django5
-BS5, Django5 기반 Blog 사이트.  
+### blog-bs5-django5 : Blog using BS5 and Django5
 https://github.com/saintdragon2/do_it_django_a_to_z 참조.  
 
 > [!NOTE]  
@@ -19,7 +18,7 @@ https://github.com/saintdragon2/do_it_django_a_to_z 참조.
 (blog-bs5-django5) Z:\lab_ext\06-python-django\django-project\blog-bs5-django5\blog_dj5>django-admin startproject blog_dj5 .
 ```
 
-## 참고
+## Notes
 
 ### GitHub 계정 고정
 이 프로젝트는 여러 PC에서 작업 중이지만 `darkchoco` 계정으로 고정되어 있다.  
